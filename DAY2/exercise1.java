@@ -1,10 +1,10 @@
 public class Main
 {
 	public static void main(String[] args) {
-		System.out.println(func(3));
-		System.out.println(func(4));
-		System.out.println(func(5));
-		System.out.println(func(6));
+		System.out.println(func(3)); //4
+		System.out.println(func(4)); //7
+		System.out.println(func(5)); //7
+		System.out.println(func(6)); //10
 	}
 	
 	public static int func(int n){
